@@ -1,0 +1,23 @@
+{
+  "name": "Windows-98-Javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  },
+  "devDependencies": {
+    "bower": "^1.8.12",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {}
+}

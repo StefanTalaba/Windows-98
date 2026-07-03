@@ -1,0 +1,33 @@
+File Order: 
+
+|───games
+├───img
+├───paint
+│   ├───.vscode
+│   ├───cypress
+│   │   ├───fixtures
+│   │   ├───integration
+│   │   ├───plugins
+│   │   ├───snapshots
+│   │   │   ├───tool-tests.spec.js
+│   │   │   └───visual-tests.spec.js
+│   │   └───support
+│   ├───help
+│   ├───images
+│   │   ├───classic
+│   │   ├───cursors
+│   │   ├───dark
+│   │   ├───icons
+│   │   ├───meta
+│   │   ├───modern
+│   │   │   └───cursors
+│   │   ├───occult
+│   │   ├───transforms
+│   │   └───winter
+│   ├───lib
+│   │   ├───gif.js
+│   │   └───os-gui
+│   ├───src
+│   └───styles
+│       └───themes
+
